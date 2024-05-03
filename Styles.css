@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+    margin: auto;
+}
+
+header{
+    margin-top: 10px;
+    width: 60%;
+    text-align: center;
+    background-color: red;
+    color: aliceblue;
+    padding: 5px;
+}
+
+form{
+    margin-top: 10px;
+    width: 60%;
+    text-align: center;
+}
+
+input{
+    border-radius: 5px;
+    padding: 5px;
+}
+
+form img{
+    float: left;
+
+}
+
+.campos{
+    margin-top:  5px;
+}
+
+.buttons{
+    margin-top: 10px;
+}
+
+
+button{
+    padding: 5px;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    
+}
+
+button:hover{
+    background-color: rgb(100, 4, 4);
+
+}
+
+#resultado{
+    margin-top: 10px;
+    font-weight: bold;
+}
